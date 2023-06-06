@@ -1,0 +1,17 @@
+﻿AGE BUCKET CODE,From Value,To Value,START DAYS,END DAYS,Age Category1,Age Category2,Age Category3,Age Category4,Sys Dim Age Lines Table ID,Age Category5,Invoice Buckets
+DueAgeBucket,-99999999999,0,-99999999,0,z) Unadj Credits,a) Not Due,z) Unadj Credits,z) < 30 Days,57,z) < 30 Days,NULL
+DueAgeBucket,0,99999999999,-99999999,0,a) Not Due,a) Not Due,a) Not Due,z) < 30 Days,58,z) < 30 Days,NULL
+DueAgeBucket,0,99999999999,0,30,b) 00-30 Days,b) 00-30 Days,b) Due,a) < 30 Days,59,a) < 30 Days,NULL
+DueAgeBucket,0,99999999999,30,45,c) 31-60 Days,c) 31-45 Days,b) Due,b) 31 - 60 Days,60,b) 31 - 60 Days,NULL
+DueAgeBucket,0,99999999999,60,90,d) 61-90 Days,d) 61-90 Days,b) Due,c) 61 - 90 Days,61,c) 61 - 90 Days,NULL
+DueAgeBucket,0,99999999999,90,180,e) 91-180 Days,e) 91-180 Days,b) Due,d) 91 - 180 Days,62,d) 91 - 180 Days,NULL
+DueAgeBucket,0,99999999999,180,360,f) > 180 Days,f) 181-360 Days,b) Due,e) 181 - 360 Days,63,e) >180 Days,NULL
+DueAgeBucket,0,99999999999,360,99999999,f) > 180 Days,g) > 360 Days,b) Due,f) > 360 Days,64,e) >180 Days,NULL
+DueAgeBucket,-99999999999,0,0,30,z) Unadj Credits,b) 00-30 Days,z) Unadj Credits,a) < 30 Days,65,a) < 30 Days,NULL
+DueAgeBucket,-99999999999,0,30,45,z) Unadj Credits,c) 31-45 Days,z) Unadj Credits,b) 31 - 60 Days,66,b) 31 - 60 Days,NULL
+DueAgeBucket,-99999999999,0,60,90,z) Unadj Credits,d) 61-90 Days,z) Unadj Credits,c) 61 - 90 Days,67,c) 61 - 90 Days,NULL
+DueAgeBucket,-99999999999,0,90,180,z) Unadj Credits,e) 91-180 Days,z) Unadj Credits,d) 91 - 180 Days,68,d) 91 - 180 Days,NULL
+DueAgeBucket,-99999999999,0,180,360,z) Unadj Credits,f) 181-360 Days,z) Unadj Credits,e) 181 - 360 Days,69,e) >180 Days,NULL
+DueAgeBucket,-99999999999,0,360,99999999,z) Unadj Credits,g) > 360 Days,z) Unadj Credits,f) > 360 Days,70,e) >180 Days,NULL
+DueAgeBucket,0,99999999999,45,60,c) 31-60 Days,c) 46-60 Days,b) Due,b) 31 - 60 Days,71,b) 31 - 60 Days,NULL
+DueAgeBucket,-99999999999,0,45,60,z) Unadj Credits,c) 46-60 Days,z) Unadj Credits,b) 31 - 60 Days,72,b) 31 - 60 Days,NULL
