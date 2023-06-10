@@ -1,0 +1,124 @@
+Company Code,Division Code,Branch Location Code,Branch Location Name,Activity Code,Data Source,Region,Common Location,Branch Location Info
+null,null,1,Thane,Non-Mfg,VAX,West,34-Thane,1-Thane
+null,null,2,Pune HO,Non-Mfg,VAX,West,28-Pune HO,2-Pune HO
+null,null,3,Sarole,Non-Mfg,VAX,West,31-Satara Warehouse,3-Sarole
+null,null,4,Delhi Depot,Non-Mfg,VAX,North,12-Delhi Depot,4-Delhi Depot
+null,null,6,Exports,Non-Mfg,VAX,Exports,14-Exports,6-Exports
+null,null,7,Baroda,Non-Mfg,VAX,West,05-Baroda,7-Baroda
+null,null,8,Satara,Non-Mfg,VAX,West,30-Satara Factory,8-Satara
+null,null,9,Banglore,Non-Mfg,VAX,South,04-Banglore,9-Banglore
+null,null,A,Delhi,Non-Mfg,VAX,North,11-Delhi,A-Delhi
+null,null,B,Bangladesh,Non-Mfg,VAX,Exports,03-Bangladesh,B-Bangladesh
+null,null,D,Anand,Non-Mfg,VAX,West,02-Anand,D-Anand
+null,null,DU00,Dubai,SCALA,SCALA,Exports,13-Dubai,DU00-Dubai
+null,null,E,Cochin,Non-Mfg,VAX,South,10-Cochin,E-Cochin
+null,null,EX00,Exports,SCALA,SCALA,Exports,14-Exports,EX00-Exports
+null,null,F,SriLanka,Non-Mfg,VAX,Exports,32-SriLanka,F-SriLanka
+null,null,H,Hyderabad,Non-Mfg,VAX,South,15-Hyderabad,H-Hyderabad
+null,null,I,Ludhiana,Non-Mfg,VAX,North,21-Ludhiana,I-Ludhiana
+null,null,IN00,Alfa Laval,SCALA,SCALA,West,01-Alfa Laval,IN00-Alfa Laval
+null,null,IN11,Calcutta,SCALA,SCALA,East,07-Calcutta,IN11-Calcutta
+null,null,IN21,Mumbai,SCALA,SCALA,West,22-Mumbai,IN21-Mumbai
+null,null,IN22,Baroda,SCALA,SCALA,West,05-Baroda,IN22-Baroda
+null,null,IN23,Pune,SCALA,SCALA,West,26-Pune,IN23-Pune
+null,null,IN31,Delhi,SCALA,SCALA,North,11-Delhi,IN31-Delhi
+null,null,IN33,Chandigarh,SCALA,SCALA,North,08-Chandigarh,IN33-Chandigarh
+null,null,IN41,Banglore,SCALA,SCALA,South,04-Banglore,IN41-Banglore
+null,null,IN42,Hyderabad,SCALA,SCALA,South,15-Hyderabad,IN42-Hyderabad
+null,null,IN43,Chennai,SCALA,SCALA,South,09-Chennai,IN43-Chennai
+null,null,IN51,Indore,SCALA,SCALA,West,16-Indore,IN51-Indore
+null,null,IN52,Bhopal,SCALA,SCALA,West,06-Bhopal,IN52-Bhopal
+null,null,J,Jaipur,Non-Mfg,VAX,North,17-Jaipur,J-Jaipur
+null,null,K,Kanpur,Non-Mfg,VAX,North,19-Kanpur,K-Kanpur
+null,null,L,Visakhapatnam,Non-Mfg,VAX,South,35-Visakhapatnam,L-Visakhapatnam
+null,null,LK00,SriLanka,SCALA,SCALA,Exports,32-SriLanka,LK00-SriLanka
+null,null,LKM,LKM Group,SCALA,SCALA,West,20-LKM Group,LKM-LKM Group
+null,null,M,Chennai,Non-Mfg,VAX,South,09-Chennai,M-Chennai
+null,null,N,Mumbai,Non-Mfg,VAX,West,22-Mumbai,N-Mumbai
+null,null,NP00,Nepal,SCALA,SCALA,Exports,24-Nepal,NP00-Nepal
+null,null,OTH,Other,SCALA,SCALA,Others,99-Other,OTH-Other
+null,null,P,Indore,Non-Mfg,VAX,West,16-Indore,P-Indore
+null,null,Q,Jamshedpur,Non-Mfg,VAX,East,18-Jamshedpur,Q-Jamshedpur
+null,null,R,Nagpur,Non-Mfg,VAX,West,23-Nagpur,R-Nagpur
+null,null,S,Raipur,Non-Mfg,VAX,West,29-Raipur,S-Raipur
+null,null,T,Patna,Non-Mfg,VAX,East,25-Patna,T-Patna
+null,null,TP00,Tetrapak,SCALA,SCALA,West,33-Tetrapak,TP00-Tetrapak
+null,null,U,Nepal,Non-Mfg,VAX,Exports,24-Nepal,U-Nepal
+null,null,V,Calcutta,Non-Mfg,VAX,East,07-Calcutta,V-Calcutta
+null,null,W,Pune Branch,Non-Mfg,VAX,West,27-Pune Branch,W-Pune Branch
+null,null,Y,Chandigarh,Non-Mfg,VAX,North,08-Chandigarh,Y-Chandigarh
+null,null,IN32,Kanpur,SCALA,SCALA,North,19-Kanpur,IN32-Kanpur
+null,null,IN44,Vizag,SCALA,SCALA,South,35-Visakhapatnam,IN44-Vizag
+null,null,IN45,Banglore,SCALA,SCALA,South,04-Banglore,IN45-Banglore
+null,null,5,SHE,5,VAX,West,30-Satara Factory,5-SHE
+5,P3A,1       ,THANE,null,02-Movex  ,null,null,1-THANE
+5,P3A,2       ,PUNE HQ,null,02-Movex  ,null,null,2-PUNE HQ
+5,P3A,3       ,SAROLE,null,02-Movex  ,null,null,3-SAROLE
+5,P3A,5       ,SHE,null,02-Movex  ,null,null,5-SHE
+5,P3A,6       ,EXPORTS,null,02-Movex  ,null,null,6-EXPORTS
+5,P3A,7       ,BARODA,null,02-Movex  ,null,null,7-BARODA
+5,P3A,8       ,SATARA,null,02-Movex  ,null,null,8-SATARA
+5,P3A,9       ,BANGALORE,null,02-Movex  ,null,null,9-BANGALORE
+5,P3A,A       ,DELHI,null,02-Movex  ,null,null,A-DELHI
+5,P3A,B       ,BANGLADESH,null,02-Movex  ,null,null,B-BANGLADESH
+5,P3A,E       ,COCHIN,null,02-Movex  ,null,null,E-COCHIN
+5,P3A,F       ,SRI LANKA,null,02-Movex  ,null,null,F-SRI LANKA
+5,P3A,H       ,HYDERABAD,null,02-Movex  ,null,null,H-HYDERABAD
+5,P3A,J       ,JAIPUR,null,02-Movex  ,null,null,J-JAIPUR
+5,P3A,K       ,KANPUR,null,02-Movex  ,null,null,K-KANPUR
+5,P3A,L       ,VISAKHAPATANAM,null,02-Movex  ,null,null,L-VISAKHAPATANAM
+5,P3A,M       ,CHENNAI,null,02-Movex  ,null,null,M-CHENNAI
+5,P3A,N       ,MUMBAI,null,02-Movex  ,null,null,N-MUMBAI
+5,P3A,P       ,INDORE,null,02-Movex  ,null,null,P-INDORE
+5,P3A,Q       ,JAMSHEDPUR,null,02-Movex  ,null,null,Q-JAMSHEDPUR
+5,P3A,R       ,NAGPUR,null,02-Movex  ,null,null,R-NAGPUR
+5,P3A,S       ,RAIPUR,null,02-Movex  ,null,null,S-RAIPUR
+5,P3A,U       ,NEPAL,null,02-Movex  ,null,null,U-NEPAL
+5,P3A,V       ,CALCUTTA,null,02-Movex  ,null,null,V-CALCUTTA
+5,P3A,W       ,PUNE BRANCH,null,02-Movex  ,null,null,W-PUNE BRANCH
+5,P3A,Y       ,CHANDIGARH,null,02-Movex  ,null,null,Y-CHANDIGARH
+5,P3A,FA0453  ,SPX FLOW TECHNOLOGY DANMARK A/S,null,02-Movex  ,null,null,FA0453-SPX FLOW TECHNOLOGY DANMARK A/S
+5,P3A,SA3461  ,PARADIGM PLUS MARKETING COMM PVT LTD,null,02-Movex  ,null,null,SA3461-PARADIGM PLUS MARKETING COMM PVT LTD
+5,P3A,SA3462  ,PRESSMAN ADVERTISING LTD,null,02-Movex  ,null,null,SA3462-PRESSMAN ADVERTISING LTD
+5,P3A,SA3463  ,COTTON SQUARE,null,02-Movex  ,null,null,SA3463-COTTON SQUARE
+5,P3A,SA3464  ,SHALILENDRA R KULKARNI,null,02-Movex  ,null,null,SA3464-SHALILENDRA R KULKARNI
+5,P3A,1757929 ,ETA ENGINEERING PVT. LTD.,null,02-Movex  ,null,null,1757929-ETA ENGINEERING PVT. LTD.
+5,P3A,1763632 ,SHREE KESHAV HEAT TREATERS,null,02-Movex  ,null,null,1763632-SHREE KESHAV HEAT TREATERS
+5,P3A,1763759 ,BHOPAL GLUES & CHEMICALS P. LTD.,null,02-Movex  ,null,null,1763759-BHOPAL GLUES & CHEMICALS P. LTD.
+5,P3A,1763761 ,M. ISMAIL RAHMANI COLD & ALLAIED INDUSTR,null,02-Movex  ,null,null,1763761-M. ISMAIL RAHMANI COLD & ALLAIED INDUSTR
+5,P3A,1763793 ,HYDROTECH INDUSTRIES,null,02-Movex  ,null,null,1763793-HYDROTECH INDUSTRIES
+5,P3A,1763797 ,SUVIDHA ENGINEERS INDIA PVT. LTD.,null,02-Movex  ,null,null,1763797-SUVIDHA ENGINEERS INDIA PVT. LTD.
+5,P3A,1763854 ,THE HIND MATCHES PRIVATE LIMITED,null,02-Movex  ,null,null,1763854-THE HIND MATCHES PRIVATE LIMITED
+5,P3A,1763933 ,THE KCP LIMITED,null,02-Movex  ,null,null,1763933-THE KCP LIMITED
+5,P3A,1763936 ,ADS  SPIRITS  PVT. LTD.,null,02-Movex  ,null,null,1763936-ADS  SPIRITS  PVT. LTD.
+5,P3A,1763970 ,JAIN IRRIGATION SYSTEMS LTD.,null,02-Movex  ,null,null,1763970-JAIN IRRIGATION SYSTEMS LTD.
+5,P3A,1763976 ,ESSAR PROJECTS IND. LTD.,null,02-Movex  ,null,null,1763976-ESSAR PROJECTS IND. LTD.
+5,P3A,1764141 ,FINETECH ENGINEERING SERVICES,null,02-Movex  ,null,null,1764141-FINETECH ENGINEERING SERVICES
+5,P3A,1764146 ,VISHWAKARMA AUTOMOTIVE PVT. LTD.,null,02-Movex  ,null,null,1764146-VISHWAKARMA AUTOMOTIVE PVT. LTD.
+5,P3A,SA3950  ,META TECH PORTABLE CABIN,null,02-Movex  ,null,null,SA3950-META TECH PORTABLE CABIN
+5,P3A,SA3951  ,KRISHNA PROFILE INDUSTRIES,null,02-Movex  ,null,null,SA3951-KRISHNA PROFILE INDUSTRIES
+5,P3A,SA3952  ,JACK AND MASTERS,null,02-Movex  ,null,null,SA3952-JACK AND MASTERS
+5,P3A,FA0498  ,VENAIR (SHANGHAI) TR CO LTD,null,02-Movex  ,null,null,FA0498-VENAIR (SHANGHAI) TR CO LTD
+5,P3A,G       ,GLOBAL PORT,null,02-Movex  ,null,null,G-GLOBAL PORT
+5,P3A,1823632 ,YSM BIOTECH INTERNATIONAL,null,02-Movex  ,null,null,1823632-YSM BIOTECH INTERNATIONAL
+5,P3A,1745076 ,CHHATISGARH DISTILLERIES LIMITED,null,02-Movex  ,null,null,1745076-CHHATISGARH DISTILLERIES LIMITED
+5,P3A,1823682 ,SKYWAY INFRA PROJECTS PVT. LTD.,null,02-Movex  ,null,null,1823682-SKYWAY INFRA PROJECTS PVT. LTD.
+5,P3A,1815453 ,CHAKKACHERIL RUBBERS PVT LTD,null,02-Movex  ,null,null,1815453-CHAKKACHERIL RUBBERS PVT LTD
+5,P3A,1823795 ,Precise Technologies,null,02-Movex  ,null,null,1823795-Precise Technologies
+5,P3A,1823827 ,ATLAS COPCO (INDIA) LTD,null,02-Movex  ,null,null,1823827-ATLAS COPCO (INDIA) LTD
+5,P3A,1823861 ,VOLTAS LIMITED,null,02-Movex  ,null,null,1823861-VOLTAS LIMITED
+5,P3A,1823862 ,TULIP TECHNOLOGIES (PVT) LTD,null,02-Movex  ,null,null,1823862-TULIP TECHNOLOGIES (PVT) LTD
+5,P3A,1778241 ,SAF YEAST COMPANY PVT LTD,null,02-Movex  ,null,null,1778241-SAF YEAST COMPANY PVT LTD
+5,P3A,1824926 ,MAGNUS POWER PRIVATE LIMITED,null,02-Movex  ,null,null,1824926-MAGNUS POWER PRIVATE LIMITED
+5,P3A,SA5946  ,BOMBAY CROCKERY HOUSE,null,02-Movex  ,null,null,SA5946-BOMBAY CROCKERY HOUSE
+5,P3A,SA5948  ,VANYA PASHUPAKSHI SANRKASHAN SAMAJIK,null,02-Movex  ,null,null,SA5948-VANYA PASHUPAKSHI SANRKASHAN SAMAJIK
+5,P3A,SA5949  ,VARAD COMPUTER'S,null,02-Movex  ,null,null,SA5949-VARAD COMPUTER'S
+5,P3A,SA5950  ,EXPRESS CLINICS PRIVATE LIMITED PUNE,null,02-Movex  ,null,null,SA5950-EXPRESS CLINICS PRIVATE LIMITED PUNE
+5,P3A,SA5951  ,A S CORP,null,02-Movex  ,null,null,SA5951-A S CORP
+5,P3A,SA5952  ,HNI OFFICE INDIA LTD,null,02-Movex  ,null,null,SA5952-HNI OFFICE INDIA LTD
+5,P3A,SA5947  ,SPS CLEARING AGENCY,null,02-Movex  ,null,null,SA5947-SPS CLEARING AGENCY
+5,P3A,SA5953  ,GATI LIMITED,null,02-Movex  ,null,null,SA5953-GATI LIMITED
+5,P3A,GD      ,GLOBAL DEVLOPMENT,null,02-Movex  ,null,null,GD-GLOBAL DEVLOPMENT
+5,P3A,GT      ,GLOBAL IT,null,02-Movex  ,null,null,GT-GLOBAL IT
+5,P3A,KD      ,KUNDLI,null,02-Movex  ,null,null,KD-KUNDLI
+5,P3A,BD      ,BANGLADESH,null,02-Movex  ,null,null,BD-BANGLADESH

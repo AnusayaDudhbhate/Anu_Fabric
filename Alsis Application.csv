@@ -1,0 +1,383 @@
+Alsis Application Code,Alsis Application Name,Valid from,Insert date,Alsis Application Info
+000       ,Scrap Cd & Ncd,null,null,000       Scrap Cd & Ncd
+001       ,null,null,null,null
+101       ,"Crude Palm Oil, ED",null,null,"101       Crude Palm Oil, ED"
+102       ,"Olive oil, ED",null,null,"102       Olive oil, ED"
+103       ,Slop Oil,null,null,103       Slop Oil
+104       ,Fruit Juice and Still Drinks,null,null,104       Fruit Juice and Still Drinks
+105       ,Dairy & Icecream,null,null,105       Dairy & Icecream
+106       ,Steel & COG,ED Process,null,106       Steel & COG
+107       ,Pulp & Paper,null,null,107       Pulp & Paper
+108       ,Starch & Sweeteners,null,null,108       Starch & Sweeteners
+109       ,"Biotech, ED",null,null,"109       Biotech, ED"
+110       ,Other Food,null,null,110       Other Food
+111       ,Latex,null,null,111       Latex
+112       ,Polymers & fibres,null,null,112       Polymers & fibres
+113       ,Other inorganic chemicals,null,null,113       Other inorganic chemicals
+114       ,Organic basic chemicals,null,null,114       Organic basic chemicals
+115       ,Pharmaceuticals,null,null,115       Pharmaceuticals
+116       ,Production Slop Oil,null,null,116       Production Slop Oil
+117       ,"Brewery, ED",null,null,"117       Brewery, ED"
+118       ,Distillery,null,null,118       Distillery
+119       ,Fertilzer products,null,null,119       Fertilzer products
+120       ,Fish (By-Product) Processing - Inedible,null,null,120       Fish (By-Product) Processing - Inedible
+121       ,Municipal desalination,null,null,121       Municipal desalination
+123       ,Power turbine other applications,null,null,123       Power turbine other applications
+124       ,Oil & gas Utilities Watermakers,null,null,124       Oil & gas Utilities Watermakers
+125       ,Nuclear power,null,null,125       Nuclear power
+126       ,"HVAC, District cooling",ED Equipme,null,"126       HVAC, District cooling"
+127       ,Drilling,null,null,127       Drilling
+128       ,Marine cargo handling,null,null,128       Marine cargo handling
+129       ,Marine engine cooling,null,null,129       Marine engine cooling
+133       ,Meat (By-Product) Processing - Inedible,null,null,133       Meat (By-Product) Processing - Inedible
+134       ,Oil & gas Utilities Fuel and lube oil treatment,null,null,134       Oil & gas Utilities Fuel and lube oil treatment
+135       ,Marine fuel oil treatment,null,null,135       Marine fuel oil treatment
+136       ,Marine hydraulic oil treatment,null,null,136       Marine hydraulic oil treatment
+137       ,Marine lube oil treatment,null,null,137       Marine lube oil treatment
+138       ,Marine waste treatment,null,null,138       Marine waste treatment
+139       ,"Metal working incl Vehicle, oil based service liquids",null,null,"139       Metal working incl Vehicle, oil based service liquids"
+140       ,"Diesel Engine Manufacturers, Built-on eq",null,null,"140       Diesel Engine Manufacturers, Built-on eq"
+141       ,Marine Tank Cleaning,null,null,141       Marine Tank Cleaning
+142       ,Power turbine fuel treatment,null,null,142       Power turbine fuel treatment
+143       ,"Sludge Treatment, Municipal Waste",null,null,"143       Sludge Treatment, Municipal Waste"
+144       ,"Sludge Treatment, Industrial Waste",null,null,"144       Sludge Treatment, Industrial Waste"
+145       ,Crude oil refinery - Utility and treatme,null,null,145       Crude oil refinery - Utility and treatme
+146       ,Mining & mineral processing (incl pigmen,null,null,146       Mining & mineral processing (incl pigmen
+147       ,Seed Oil Processing -Food Use,null,null,147       Seed Oil Processing -Food Use
+148       ,Seed Oil Processing -Technical Use (excl,null,null,148       Seed Oil Processing -Technical Use (excl
+150       ,Air conditioning / heat pump,ED Equipme,null,150       Air conditioning / heat pump
+151       ,Combi-boiler manufacturing,null,null,151       Combi-boiler manufacturing
+152       ,Compressor manufacturing,null,null,152       Compressor manufacturing
+153       ,General Manufacturing industry,null,null,153       General Manufacturing industry
+154       ,Palm Oil & Other Tropical Oils Processin,null,null,154       Palm Oil & Other Tropical Oils Processin
+155       ,"Electronic/Semi Conductor manufact, serv",null,null,"155       Electronic/Semi Conductor manufact, serv"
+156       ,Textile industry,null,null,156       Textile industry
+157       ,"Vehicle Manufact, oil based service liquids",null,null,"157       Vehicle Manufact, oil based service liquids"
+158       ,"HVAC, Heating other",null,null,"158       HVAC, Heating other"
+159       ,"HVAC, Cooling other",null,null,"159       HVAC, Cooling other"
+160       ,"HVAC, District heating",null,null,"160       HVAC, District heating"
+161       ,Industrial steam heating,null,null,161       Industrial steam heating
+162       ,Oil Production,null,null,162       Oil Production
+163       ,Marine water desalination,null,null,163       Marine water desalination
+165       ,Refrigeration absorption,null,null,165       Refrigeration absorption
+166       ,Sulphuric acid production,null,null,166       Sulphuric acid production
+167       ,Chlor-alkali industry (incl. caustic sod,null,null,167       Chlor-alkali industry (incl. caustic sod
+168       ,Alumina production,null,null,168       Alumina production
+169       ,Soda ash production,ED Process,null,169       Soda ash production
+170       ,"Sugar, production",null,null,"170       Sugar, production"
+171       ,Alcoholic Beverages,null,null,171       Alcoholic Beverages
+172       ,"Sludge Treatment, Potable Water",null,null,"172       Sludge Treatment, Potable Water"
+173       ,Carbonated Soft Drinks,null,null,173       Carbonated Soft Drinks
+174       ,Engine Power,null,null,174       Engine Power
+176       ,Air dryer manufacturing,null,null,176       Air dryer manufacturing
+180       ,Gas Production,null,null,180       Gas Production
+181       ,Household and specialty chemical product,null,null,181       Household and specialty chemical product
+182       ,Personal Care Products,null,null,182       Personal Care Products
+183       ,Fish (By-Product) Processing - Edible,null,null,183       Fish (By-Product) Processing - Edible
+184       ,Drilling Utilities Cooling and Heating,null,null,184       Drilling Utilities Cooling and Heating
+186       ,Drilling Utilities Fuel and lube oil treatment,null,null,186       Drilling Utilities Fuel and lube oil treatment
+187       ,"Coffee & tea, ED",null,null,"187       Coffee & tea, ED"
+188       ,Drilling Utilities FWG,null,null,188       Drilling Utilities FWG
+190       ,"Sludge Treatment, Mining",null,null,"190       Sludge Treatment, Mining"
+191       ,Vegetable Protein & Syrup Extraction - I,null,null,191       Vegetable Protein & Syrup Extraction - I
+193       ,Drilling Fluid treatment,null,null,193       Drilling Fluid treatment
+194       ,Meat By-Product Processing - Edible,null,null,194       Meat By-Product Processing - Edible
+195       ,Air Conditioning,null,null,195       Air Conditioning
+196       ,Heat Pump,null,null,196       Heat Pump
+201       ,Crude Palm Oil Extraction,null,null,201       Crude Palm Oil Extraction
+202       ,Olive oil,null,null,202       Olive oil
+204       ,Apple and Berry Processing Tropical and,null,null,204       Apple and Berry Processing Tropical and
+205       ,Production Tank Cleaning,null,null,205       Production Tank Cleaning
+206       ,Tomato and Vegetable Products,null,null,206       Tomato and Vegetable Products
+207       ,Production Oily Waste Water,null,null,207       Production Oily Waste Water
+208       ,Drilling Oily Waste Water,null,null,208       Drilling Oily Waste Water
+209       ,Biotech,null,null,209       Biotech
+210       ,Other Food & Flavours,null,null,210       Other Food & Flavours
+213       ,Biodiesel,null,null,213       Biodiesel
+215       ,"Pharmaceuticals, PD",null,null,"215       Pharmaceuticals, PD"
+217       ,Brewery,null,null,217       Brewery
+218       ,Ethanol,null,null,218       Ethanol
+221       ,Dairy By-Product Processing incl. Casein,null,null,221       Dairy By-Product Processing incl. Casein
+223       ,Pectin & Other Gums,null,null,223       Pectin & Other Gums
+231       ,"Brewery Utility, Beer & Wort Recovery and Waste",null,null,"231       Brewery Utility, Beer & Wort Recovery and Waste"
+240       ,"Industrial Sludge, Oil & Protein Technology",null,null,"240       Industrial Sludge, Oil & Protein Technology"
+241       ,"Industrial Sludge, Brewery",null,null,"241       Industrial Sludge, Brewery"
+243       ,"Industrial Sludge, Inorganics, Metal & Paper",null,null,"243       Industrial Sludge, Inorganics, Metal & Paper"
+244       ,"Industrial Sludge, Refineries & Petrochem.",null,null,"244       Industrial Sludge, Refineries & Petrochem."
+271       ,"Wine, Distilled Liquors & Spirits, PD",null,null,"271       Wine, Distilled Liquors & Spirits, PD"
+273       ,Ready to Drink Soft Drinks,null,null,273       Ready to Drink Soft Drinks
+274       ,Power diesel engine (replacement),null,null,274       Power diesel engine (replacement)
+281       ,End user products & Specialty chemicals,null,null,281       End user products & Specialty chemicals
+282       ,"Personal Care Products, PD",null,null,"282       Personal Care Products, PD"
+287       ,Coffee & Tea,null,null,287       Coffee & Tea
+289       ,Industrial Fermentation,null,null,289       Industrial Fermentation
+290       ,Cheese,null,null,290       Cheese
+291       ,Tomato products & Condiment Sauces,null,null,291       Tomato products & Condiment Sauces
+292       ,"Refrig, Commercial",null,null,"292       Refrig, Commercial"
+293       ,"Refrig, Industrial",null,null,"293       Refrig, Industrial"
+294       ,Metalworking & Automotive,null,null,294       Metalworking & Automotive
+295       ,"Metal working incl Vehicle, surface treatment",null,null,"295       Metal working incl Vehicle, surface treatment"
+296       ,"Refrig, Industrial Process",null,null,"296       Refrig, Industrial Process"
+297       ,"Refrig, Indust Prof - Chemical incl. Storage",null,null,"297       Refrig, Indust Prof - Chemical incl. Storage"
+298       ,"Refrig, Indust Prof - Biotech, incl. Storage",null,null,"298       Refrig, Indust Prof - Biotech, incl. Storage"
+299       ,"Refrig, Indust Proc - Brewery/Beverage, incl. Stor",null,null,"299       Refrig, Indust Proc - Brewery/Beverage, incl. Stor"
+301       ,"Refrig, Indust Proc - Food incl. storage",null,null,"301       Refrig, Indust Proc - Food incl. storage"
+302       ,"Refrig, Marine",null,null,"302       Refrig, Marine"
+303       ,Fuel Cells,null,null,303       Fuel Cells
+304       ,"Vehicle manufact, water based service liquids",null,null,"304       Vehicle manufact, water based service liquids"
+305       ,"Vehicle manufact, surface treatment",null,null,"305       Vehicle manufact, surface treatment"
+306       ,Lubrication Oil,null,null,306       Lubrication Oil
+307       ,Hydraulics,null,null,307       Hydraulics
+308       ,"Wine, ED",null,null,"308       Wine, ED"
+309       ,"Wine, vinegar & Distilled Spirits",null,null,"309       Wine, vinegar & Distilled Spirits"
+310       ,"Brewery Yeast, PD",null,null,"310       Brewery Yeast, PD"
+311       ,Life Science Plant,null,null,311       Life Science Plant
+312       ,Machine builders,null,null,312       Machine builders
+313       ,Ballast Water Treatment,null,null,313       Ballast Water Treatment
+314       ,Municipal Waste Water Treatment,null,null,314       Municipal Waste Water Treatment
+315       ,Citrus Fruit Processing,null,null,315       Citrus Fruit Processing
+316       ,Industrial Waste Water Treatment,null,null,316       Industrial Waste Water Treatment
+317       ,Locomotive Engine,null,null,317       Locomotive Engine
+318       ,Brewery Filtration,null,null,318       Brewery Filtration
+319       ,Brew-house,null,null,319       Brew-house
+320       ,Biotech/Pharma - Engineering Services,null,null,320       Biotech/Pharma - Engineering Services
+321       ,Marine Fuel Conditioning,null,null,321       Marine Fuel Conditioning
+322       ,Diesel Fuel Conditioning,null,null,322       Diesel Fuel Conditioning
+324       ,Biodiesel Pretreatment,null,null,324       Biodiesel Pretreatment
+325       ,"HVAC, Cooling for special use",null,null,"325       HVAC, Cooling for special use"
+327       ,Diesel fuel oil treatment,null,null,327       Diesel fuel oil treatment
+328       ,Diesel lube oil treatment,null,null,328       Diesel lube oil treatment
+329       ,Bio-Oil Fermentation,null,null,329       Bio-Oil Fermentation
+330       ,Filtration Equipment,null,null,330       Filtration Equipment
+332       ,"Power, Nuclear turbine island",null,null,"332       Power, Nuclear turbine island"
+334       ,"Power, Clean and renewable power generat",null,null,"334       Power, Clean and renewable power generat"
+335       ,Auxiliary power systems & modules,null,null,335       Auxiliary power systems & modules
+336       ,"Power, Fossil fired Power generation ? H",null,null,"336       Power, Fossil fired Power generation ? H"
+337       ,"Power, Fossil fired Power generation ? S",null,null,"337       Power, Fossil fired Power generation ? S"
+338       ,Conventional power,null,null,338       Conventional power
+339       ,"Power, Desalination",null,null,"339       Power, Desalination"
+907       ,"EPS, Transfer between stocks, PS",null,null,"907       EPS, Transfer between stocks, PS"
+908       ,"ED, Transfer between stocks",null,null,"908       ED, Transfer between stocks"
+914       ,"PPS, Transfer between stocks, PS",null,null,"914       PPS, Transfer between stocks, PS"
+915       ,"FWD, Transfer between stocks",null,null,"915       FWD, Transfer between stocks"
+916       ,"OP, Transfer between stocks",null,null,"916       OP, Transfer between stocks"
+920       ,"Non Core Activities, ED",null,null,"920       Non Core Activities, ED"
+921       ,"Non Core Activities, FWD",null,null,"921       Non Core Activities, FWD"
+925       ,Ungrouped other external sales,null,null,925       Ungrouped other external sales
+APP,Applications,null,null,APPApplications
+179,Pectine & Soya Milk,null,null,179Pectine & Soya Milk
+264,Flue gas desulphurisation,null,null,264Flue gas desulphurisation
+323,"Crankcase Gas Cleaning, Diesel Engines 5",null,null,"323Crankcase Gas Cleaning, Diesel Engines 5"
+326,Genset & Cogeneration,null,null,326Genset & Cogeneration
+331,"Power, Gasification and Carbon Capture",null,null,"331Power, Gasification and Carbon Capture"
+333,Renewable power,null,null,333Renewable power
+340,A/C Refrigeration,null,null,340A/C Refrigeration
+341,Electrical power converters,null,null,341Electrical power converters
+917,"OP, OLO",null,null,"917OP, OLO"
+OLD,Old application codes,null,null,OLDOld application codes
+122,Refrigeration HCFC,ED Equipme,null,122Refrigeration HCFC
+130,Industrial oil cooling,ED Equipme,null,130Industrial oil cooling
+131,"Brewery utility, ED",null,null,"131Brewery utility, ED"
+132,Process utility,null,null,132Process utility
+149,Refrigeration ammonia,null,null,149Refrigeration ammonia
+164,"Flue gas desulphurisation, ED",null,null,"164Flue gas desulphurisation, ED"
+175,Transport tankers,null,null,175Transport tankers
+177,Beverage dispensing,null,null,177Beverage dispensing
+178,Process Refrigeration Equipment,null,null,178Process Refrigeration Equipment
+185,Drilling Tank Cleaning,null,null,185Drilling Tank Cleaning
+189,"Yeast, ED",null,null,"189Yeast, ED"
+192,Fuel Cells,null,null,192Fuel Cells
+226,"HVAC, District cooling, Cetetherm",null,null,"226HVAC, District cooling, Cetetherm"
+242,"Industrial Sludge, Beverages, Wine & Visc.",null,null,"242Industrial Sludge, Beverages, Wine & Visc."
+245,"Industrial Sludge, Natural Resources",null,null,"245Industrial Sludge, Natural Resources"
+246,"Industrial Sludge, Power",null,null,"246Industrial Sludge, Power"
+253,"Light and Mech Industry manufacturing, Cetetherm",null,null,"253Light and Mech Industry manufacturing, Cetetherm"
+258,"HVAC, Heating other, Cetetherm",null,null,"258HVAC, Heating other, Cetetherm"
+259,"HVAC, Cooling other, Cetetherm",null,null,"259HVAC, Cooling other, Cetetherm"
+260,"HVAC, District heating, Cetetherm",null,null,"260HVAC, District heating, Cetetherm"
+279,"Pectine & Soya Milk, PD",null,null,"279Pectine & Soya Milk, PD"
+901,"EHR, Transfer between stocks, NS",null,null,"901EHR, Transfer between stocks, NS"
+902,"ESE, Transfer between stocks, NS",null,null,"902ESE, Transfer between stocks, NS"
+903,"EMC, Transfer between stocks, NS",null,null,"903EMC, Transfer between stocks, NS"
+904,"EMP, Transfer between stocks, PS",null,null,"904EMP, Transfer between stocks, PS"
+905,"EFU, Transfer between stocks, NS",null,null,"905EFU, Transfer between stocks, NS"
+906,"EOE, Transfer between stocks, NS",null,null,"906EOE, Transfer between stocks, NS"
+909,"PFT, Transfer between stocks, NS",null,null,"909PFT, Transfer between stocks, NS"
+910,"PEE, Transfer between stocks, NS",null,null,"910PEE, Transfer between stocks, NS"
+911,"PPI, Transfer between stocks, NS",null,null,"911PPI, Transfer between stocks, NS"
+912,Edible Oil Systems Sales,null,null,912Edible Oil Systems Sales
+913,"PWT, Transfer between stocks, NS",null,null,"913PWT, Transfer between stocks, NS"
+922,Industrial Flow,null,null,922Industrial Flow
+197,NOx/EGR water treatment,null,1/24/2014,197NOx/EGR water treatment
+198,Solar,null,1/24/2014,198Solar
+199,SOx/EGC Water Treatment,null,1/24/2014,199SOx/EGC Water Treatment
+212,IW - Waste Water,null,1/24/2014,212IW - Waste Water
+283,Biofuels,null,1/24/2014,283Biofuels
+342,Solid Waste and Biogas Plants,null,1/24/2014,342Solid Waste and Biogas Plants
+343,Ethylene & Propylene,null,1/24/2014,343Ethylene & Propylene
+344,Aromatic Chemical Production,null,1/24/2014,344Aromatic Chemical Production
+345,Ammonia & Urea,null,1/24/2014,345Ammonia & Urea
+554,Product Tanker,null,1/24/2014,554Product Tanker
+555,Chemical Tanker,null,1/24/2014,555Chemical Tanker
+556,Bulk Carrier,null,1/24/2014,556Bulk Carrier
+557,LNG Carrier,null,1/24/2014,557LNG Carrier
+558,LPG Carrier,null,1/24/2014,558LPG Carrier
+560,Cruise Vessel,null,1/24/2014,560Cruise Vessel
+561,Other Vessel,null,1/24/2014,561Other Vessel
+562,FPSO,null,1/24/2014,562FPSO
+563,Exhaust Gas Cleaning System,null,1/24/2014,563Exhaust Gas Cleaning System
+564,"Large Crude Tanker (UL/VLCC, Suezmax)",null,1/24/2014,"564Large Crude Tanker (UL/VLCC, Suezmax)"
+565,Other Crude Tanker,null,1/24/2014,565Other Crude Tanker
+566,"Large Container Ship (VLPP, Post-Panamax",null,1/24/2014,"566Large Container Ship (VLPP, Post-Panamax"
+567,Other Container Ship,null,1/24/2014,567Other Container Ship
+918,"MD, Transfer between stocks",null,1/24/2014,"918MD, Transfer between stocks"
+923,"Non Core Activities, MD",null,1/24/2014,"923Non Core Activities, MD"
+203       ,Datacenter cooling,null,null,203       Datacenter cooling
+580       ,IWW - Oil,null,null,580       IWW - Oil
+581       ,IWW - Gas,null,null,581       IWW - Gas
+582       ,IWW - Drilling,null,null,582       IWW - Drilling
+583       ,IWW - Power,null,null,583       IWW - Power
+584       ,IWW - Steel & COG,null,null,584       IWW - Steel & COG
+585       ,IWW - Pulp & Paper,null,null,585       IWW - Pulp & Paper
+586       ,IWW - Mining & Mineral,null,null,586       IWW - Mining & Mineral
+587       ,IWW - Other IMP,null,null,587       IWW - Other IMP
+588       ,IWW - Petrochemical,null,null,588       IWW - Petrochemical
+589       ,IWW - Refinery,null,null,589       IWW - Refinery
+590       ,IWW - Starch and sweetener plants,null,null,590       IWW - Starch and sweetener plants
+591       ,IWW - Protein,null,null,591       IWW - Protein
+592       ,IWW - Brewery,null,null,592       IWW - Brewery
+593       ,IWW - Food Solutions,null,null,593       IWW - Food Solutions
+594       ,IWW - Olive Oil,null,null,594       IWW - Olive Oil
+595       ,IWW - VOT,null,null,595       IWW - VOT
+214       ,Oleochemicals,null,null,214       Oleochemicals
+568       ,FLNG,null,null,568       FLNG
+211       ,Industrial None Hygienic,null,null,211       Industrial None Hygienic
+216       ,"Vegetable ""Milk"" Extraction - Edible",null,null,"216       Vegetable ""Milk"" Extraction - Edible"
+247       ,Refinery - Crude oil distillation units,null,null,247       Refinery - Crude oil distillation units
+248       ,Refinery - Catalytic process units,null,null,248       Refinery - Catalytic process units
+249       ,Refinery - Heavy Oil conversion units,null,null,249       Refinery - Heavy Oil conversion units
+250       ,"Oil Storage, Cargo pumps and piping",null,null,"250       Oil Storage, Cargo pumps and piping"
+251       ,Oil Recovery Offshore,null,null,251       Oil Recovery Offshore
+569       ,FLNG Cargo Pumps and Piping,null,null,569       FLNG Cargo Pumps and Piping
+570       ,FPSO Cargo Pumps and Piping,null,null,570       FPSO Cargo Pumps and Piping
+571       ,OSV Offshore Supply Vessel Cargo pumps a,null,null,571       OSV Offshore Supply Vessel Cargo pumps a
+596       ,IWW - Slop Oil,null,null,596       IWW - Slop Oil
+597       ,IWW - CPO,null,null,597       IWW - CPO
+598       ,"IWW ? Sugar, biodiesel and ethanol plant",null,null,"598       IWW ? Sugar, biodiesel and ethanol plant"
+599       ,IWW ? Life Science and industrial fermen,null,null,599       IWW ? Life Science and industrial fermen
+346       ,Marine Methanol Fuels,null,null,346       Marine Methanol Fuels
+347       ,Marine Gas Fuels,null,null,347       Marine Gas Fuels
+219       ,Pipeline transportation,null,null,219       Pipeline transportation
+348       ,Oil Storage,null,null,348       Oil Storage
+349       ,OSV Offshore Supply Vessel,null,null,349       OSV Offshore Supply Vessel
+350       ,Suction Anchor,null,null,350       Suction Anchor
+254       ,Offshore Oil,null,null,254       Offshore Oil
+255       ,Offshore Gas,null,null,255       Offshore Gas
+572       ,Capesize Bulk Carrier (100k+ Dwt),null,null,572       Capesize Bulk Carrier (100k+ Dwt)
+573       ,Panamax Bulk Carrier (60-100k Dwt),null,null,573       Panamax Bulk Carrier (60-100k Dwt)
+574       ,Handymax Bulk Carrier (40-60k Dwt),null,null,574       Handymax Bulk Carrier (40-60k Dwt)
+575       ,Handysize Bulk Carrier (10-40k Dwt),null,null,575       Handysize Bulk Carrier (10-40k Dwt)
+576       ,Coated Aframax (80-120k Dwt),null,null,576       Coated Aframax (80-120k Dwt)
+577       ,Panamax Tanker (60-80k Dwt),null,null,577       Panamax Tanker (60-80k Dwt)
+578       ,Handy Product Tanker (10-60k Dwt),null,null,578       Handy Product Tanker (10-60k Dwt)
+579       ,Small Product Tanker (2-10k Dwt),null,null,579       Small Product Tanker (2-10k Dwt)
+600       ,UL/VLCC Crude Tanker (200k+ Dwt),null,null,600       UL/VLCC Crude Tanker (200k+ Dwt)
+601       ,Suezmax Crude Tanker (120-200k Dwt),null,null,601       Suezmax Crude Tanker (120-200k Dwt)
+602       ,Aframax Crude Tanker (80-120k Dwt),null,null,602       Aframax Crude Tanker (80-120k Dwt)
+603       ,Post-Panamax (15k+ TEU),null,null,603       Post-Panamax (15k+ TEU)
+604       ,Intermediate/Neo-Panamax (3-15k TEU),null,null,604       Intermediate/Neo-Panamax (3-15k TEU)
+605       ,Feeder (<3k TEU),null,null,605       Feeder (<3k TEU)
+606       ,Offshore Aquaculture,null,null,606       Offshore Aquaculture
+607       ,Crude Panamax Tanker (60-80k Dwt),null,null,607       Crude Panamax Tanker (60-80k Dwt)
+610       ,General Cargo,null,null,610       General Cargo
+611       ,Miscellaneous Ship Types,null,null,611       Miscellaneous Ship Types
+612       ,Multi-purpose Vessel (MPP),null,null,612       Multi-purpose Vessel (MPP)
+613       ,Passenger Ferry,null,null,613       Passenger Ferry
+614       ,RoRo Ship,null,null,614       RoRo Ship
+615       ,PCC,null,null,615       PCC
+616       ,Small Vessel (<2k Dwt),null,null,616       Small Vessel (<2k Dwt)
+926       ,Marine sales in F&W,null,null,926       Marine sales in F&W
+927       ,Energy sales in F&W,null,null,927       Energy sales in F&W
+928       ,IWW Energy sales in F&W,null,null,928       IWW Energy sales in F&W
+936       ,Marine sales in Energy,null,null,936       Marine sales in Energy
+937       ,F&W sales in Energy,null,null,937       F&W sales in Energy
+946       ,F&W sales in Marine,null,null,946       F&W sales in Marine
+947       ,Energy sales in Marine,null,null,947       Energy sales in Marine
+620       ,"Non merchant vessels (Navy, Coast Guard,",null,null,"620       Non merchant vessels (Navy, Coast Guard,"
+621       ,Indirect vessel (Marine channel sales fo,null,null,621       Indirect vessel (Marine channel sales fo
+265       ,Wind Power,null,null,265       Wind Power
+266       ,Renewable fuels,null,null,266       Renewable fuels
+284       ,Confectionery,null,null,284       Confectionery
+285       ,Meat processing,null,null,285       Meat processing
+286       ,Clean air,null,null,286       Clean air
+288       ,Other dehumidification,null,null,288       Other dehumidification
+220       ,Yellow fat and shortening technology,null,null,220       Yellow fat and shortening technology
+421       ,Marine Fuel Conditioning filtration,null,null,421       Marine Fuel Conditioning filtration
+427       ,Diesel fuel oil treatment filtration,null,null,427       Diesel fuel oil treatment filtration
+428       ,Diesel lube oil treatment filtration,null,null,428       Diesel lube oil treatment filtration
+435       ,Marine fuel oil treatment filtration,null,null,435       Marine fuel oil treatment filtration
+436       ,Marine hydraulic oil treatment filtratio,null,null,436       Marine hydraulic oil treatment filtratio
+437       ,Marine lube oil treatment filtration,null,null,437       Marine lube oil treatment filtration
+256       ,"HVAC, Geothermal Heating",null,null,"256       HVAC, Geothermal Heating"
+257       ,Micro heatpumps used in whitegoods,null,null,257       Micro heatpumps used in whitegoods
+351       ,Organic Rankine Cycle,null,null,351       Organic Rankine Cycle
+352       ,Gas turbine,null,null,352       Gas turbine
+353       ,Flue gas heat recovery,null,null,353       Flue gas heat recovery
+222       ,Biobased processing,null,null,222       Biobased processing
+267       ,Energy Storage,null,null,267       Energy Storage
+268       ,Green hydrogen to chemicals and fuels,null,null,268       Green hydrogen to chemicals and fuels
+269       ,Recycling and other circular solutions,null,null,269       Recycling and other circular solutions
+270       ,Renewable fuels (including HVO and ethan,null,null,270       Renewable fuels (including HVO and ethan
+354       ,Centralized Solar solutions and CSP,null,null,354       Centralized Solar solutions and CSP
+355       ,Green hydrogen,null,null,355       Green hydrogen
+356       ,Micro CHP,null,null,356       Micro CHP
+357       ,"Carbon Capture, Utilization and storage",null,null,"357       Carbon Capture, Utilization and storage"
+440       ,Media,null,null,440       Media
+441       ,Energy Markets,null,null,441       Energy Markets
+442       ,Other land-based industries,null,null,442       Other land-based industries
+948       ,Land-based wind power,null,null,948       Land-based wind power
+949       ,Ash Treatment Systems,null,null,949       Ash Treatment Systems
+950       ,Fishing Vessels,null,null,950       Fishing Vessels
+951       ,Yachts,null,null,951       Yachts
+952       ,Insect Processing,null,null,952       Insect Processing
+443       ,RAS Installations,null,null,443       RAS Installations
+622       ,Evaporation Systems - Starch and sweeten,null,null,622       Evaporation Systems - Starch and sweeten
+623       ,Evaporation Systems - Food Solutions,null,null,623       Evaporation Systems - Food Solutions
+624       ,Evaporation Systems - Olive Oil,null,null,624       Evaporation Systems - Olive Oil
+625       ,"Evaporation Systems - Sugar, biodiesel a",null,null,"625       Evaporation Systems - Sugar, biodiesel a"
+626       ,Evaporation Systems -  Life Science and,null,null,626       Evaporation Systems -  Life Science and
+227       ,Biopharma Cellculture,null,null,227       Biopharma Cellculture
+228       ,Biopharma Microbial,null,null,228       Biopharma Microbial
+229       ,Probiotics,null,null,229       Probiotics
+230       ,Cultured Meat,null,null,230       Cultured Meat
+444       ,Small Bulk Carrier (2-10k Dwt),null,null,444       Small Bulk Carrier (2-10k Dwt)
+445       ,Coastal Crude tanker (2-60k Dwt),null,null,445       Coastal Crude tanker (2-60k Dwt)
+446       ,Reefer vessels,null,null,446       Reefer vessels
+447       ,Tugs,null,null,447       Tugs
+448       ,Dredgers,null,null,448       Dredgers
+449       ,General Cargo (<2k Dwt),null,null,449       General Cargo (<2k Dwt)
+450       ,Multi-purpose Vessel (MPP <2k GT),null,null,450       Multi-purpose Vessel (MPP <2k GT)
+451       ,"Passenger Ferries, RoRo (<2k GT)",null,null,"451       Passenger Ferries, RoRo (<2k GT)"
+452       ,Bulk Carriers (<2k Dwt),null,null,452       Bulk Carriers (<2k Dwt)
+453       ,Small Tankers (<2k Dwt),null,null,453       Small Tankers (<2k Dwt)
+627       ,Evaporation Systems - Biodiesel and etha,null,null,627       Evaporation Systems - Biodiesel and etha
+628       ,Evaporation Systems - Animal protein,null,null,628       Evaporation Systems - Animal protein
+629       ,Evaporation Systems - Fish protein,null,null,629       Evaporation Systems - Fish protein
+630       ,Evaporation Systems - Vegetable protein,null,null,630       Evaporation Systems - Vegetable protein
+631       ,Evaporation Systems - Brewery,null,null,631       Evaporation Systems - Brewery
+632       ,Evaporation Systems - Dairy,null,null,632       Evaporation Systems - Dairy
+633       ,Evaporation Systems - Waste & Water,null,null,633       Evaporation Systems - Waste & Water
+280       ,Electrolyzer,null,null,280       Electrolyzer
+411       ,D - Grain & Oilseeds Handling,null,null,411       D - Grain & Oilseeds Handling
+412       ,D - Feed Processing,null,null,412       D - Feed Processing
+413       ,D - Rendering,null,null,413       D - Rendering
+414       ,D - Oleochemicals,null,null,414       D - Oleochemicals
+415       ,D - Biodiesel incl. Pretreatment,null,null,415       D - Biodiesel incl. Pretreatment
+416       ,D - HVO Pretreatment,null,null,416       D - HVO Pretreatment
+417       ,D - Modification,null,null,417       D - Modification
+418       ,D - Refining,null,null,418       D - Refining
+419       ,D - Extraction,null,null,419       D - Extraction
+420       ,D - Preparation,null,null,420       D - Preparation
+552       ,FSRU,null,null,552       FSRU
+224       ,Commercial HP 50-300 Kw,null,null,224       Commercial HP 50-300 Kw
+225       ,Industrial HP 500-1500 Kw,null,null,225       Industrial HP 500-1500 Kw

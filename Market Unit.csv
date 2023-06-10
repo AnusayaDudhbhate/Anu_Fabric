@@ -1,0 +1,35 @@
+MU Code,MU Name,Seg Code,MISAL Div,Local Div,An05 code,Seg Name,Seg Div Code,Seg Div Name,Seg Div Info,Segment Info,MU Info,SEGMENT CODE,SEGMENT NAME,DIVISION CODE,DIVISION NAME,MU_Marine,Segment Info PBI,Division Info PBI,Sort_Order
+1113,ED GPHE process,,Energy Division,EN,1111130,null,null,null,null,-,1113 ED GPHE process,GPP,Gasketed Plate Heat Exchangers Process,ED,Energy,All,GPP-Gasketed Plate Heat Exchangers Process,ED-Energy,1
+1115 ,ED GPHE Equipment,,Energy Division,EN,1111150,null,null,null,null,-,1115  ED GPHE Equipment,GPH,Gasketed Plate Heat Exchangers Equipment,ED,Energy,All,GPH-Gasketed Plate Heat Exchangers Equipment,ED-Energy,1
+1225 ,ED BHE,BFB,Energy Division,EN,1112250,Brazed & Fusion Bonded Heat Exchangers,null,null,-,BFB-Brazed & Fusion Bonded Heat Exchangers,1225  ED BHE,BFB,Brazed & Fusion Bonded Heat Exchangers,ED,Energy,All,BFB-Brazed & Fusion Bonded Heat Exchangers,ED-Energy,1
+1320 ,ED WHE,WHE,Energy Division,EN,1113200,Welded Heat Exchangers,null,null,-,WHE-Welded Heat Exchangers,1320  ED WHE,WHE,Welded Heat Exchangers,ED,Energy,All,WHE-Welded Heat Exchangers,ED-Energy,1
+1330 ,Energy Other HEX,WHE,Energy Division,EN,1213300,Welded Heat Exchangers,null,null,-,WHE-Welded Heat Exchangers,1330  Energy Other HEX,WHE,Welded Heat Exchangers,ED,Energy,All,WHE-Welded Heat Exchangers,ED-Energy,1
+1405 ,ED HSS,ENS,Energy Division,EN,1114050,Energy Separation,null,null,-,ENS-Energy Separation,1405  ED HSS,ENS,Energy Separation,ED,Energy,All,ENS-Energy Separation,ED-Energy,1
+1410 ,ED Decanters,ENS,Energy Division,EN,1114100,Energy Separation,null,null,-,ENS-Energy Separation,1410  ED Decanters,ENS,Energy Separation,ED,Energy,All,ENS-Energy Separation,ED-Energy,1
+1465 ,ED FWG & Evaporator,ENS,Energy Division,EN,1114650,Energy Separation,null,null,-,ENS-Energy Separation,1465  ED FWG & Evaporator,ENS,Energy Separation,ED,Energy,All,ENS-Energy Separation,ED-Energy,1
+1470 ,ED Other Separation,ENS,Energy Division,EN,1114700,Energy Separation,null,null,-,ENS-Energy Separation,1470  ED Other Separation,ENS,Energy Separation,ED,Energy,All,ENS-Energy Separation,ED-Energy,1
+1815 ,ED GPHE,GPH,Energy Division,EN,null,Gasketed Plate Heat Exchangers,null,null,-,GPH-Gasketed Plate Heat Exchangers,1815  ED GPHE,null,null,null,null,All,null,null,4
+1940 ,ED Boilers,ENS,Energy Division,EN,null,Energy Separation,null,null,-,ENS-Energy Separation,1940  ED Boilers,GPH,Gasketed Plate Heat Exchangers Equipment,ED,Energy,All,GPH-Gasketed Plate Heat Exchangers Equipment,ED-Energy,1
+2105 ,FWD HSS,HSS-F,FWD,F&W,1121050,High Speed Separators,null,null,-,HSS-F-High Speed Separators,2105  FWD HSS,HSS,High Speed Separators,FWD,Food & Water,All,HSS-High Speed Separators,FWD-Food & Water,2
+2210 ,FWD Decanters,DEC,FWD,F&W,1122100,Decanters,null,null,-,DEC-Decanters,2210  FWD Decanters,DEC,Decanters,FWD,Food & Water,All,DEC-Decanters,FWD-Food & Water,2
+2270 ,FWD Other Separation,DEC,FWD,F&W,1122700,Decanters,null,null,-,DEC-Decanters,2270  FWD Other Separation,DEC,Decanters,FWD,Food & Water,All,DEC-Decanters,FWD-Food & Water,2
+2272 ,FWD Membranes,MEM,FWD,F&W,null,null,null,null,null,MEM-,2272  FWD Membranes,DEC,Decanters,FWD,Food & Water,All,DEC-Decanters,FWD-Food & Water,2
+2365 ,FWD FWG & Evaporation,FOS,FWD,F&W,1123650,Food Systems,null,null,-,FOS-Food Systems,2365  FWD FWG & Evaporation,FOS,Food Systems,FWD,Food & Water,All,FOS-Food Systems,FWD-Food & Water,2
+2375 ,FWD ASP,FOS,FWD,F&W,1123750,Food Systems,null,null,-,FOS-Food Systems,2375  FWD ASP,FOS,Food Systems,FWD,Food & Water,All,FOS-Food Systems,FWD-Food & Water,2
+2435 , FWD Fluid Handling,HFH,FWD,F&W,1124350,Hygienic Fluid Handling,null,null,-,HFH-Hygienic Fluid Handling,2435   FWD Fluid Handling,HFH,Hygienic Fluid Handling,FWD,Food & Water,All,HFH-Hygienic Fluid Handling,FWD-Food & Water,2
+2515 ,FWD GPHE,FHT,FWD,F&W,1125150,Food Heat Transfer,null,null,-,FHT-Food Heat Transfer,2515  FWD GPHE,FHT,Food Heat Transfer,FWD,Food & Water,All,FHT-Food Heat Transfer,FWD-Food & Water,2
+2520 ,FWD WHE,FHT,FWD,F&W,1125200,Food Heat Transfer,null,null,-,FHT-Food Heat Transfer,2520  FWD WHE,FHT,Food Heat Transfer,FWD,Food & Water,All,FHT-Food Heat Transfer,FWD-Food & Water,2
+2525 ,FWD BHE,FHT,FWD,F&W,1125250,Food Heat Transfer,null,null,-,FHT-Food Heat Transfer,2525  FWD BHE,FHT,Food Heat Transfer,FWD,Food & Water,All,FHT-Food Heat Transfer,FWD-Food & Water,2
+2530 ,FWD Other HEX,FHT,FWD,F&W,1125300,Food Heat Transfer,null,null,-,FHT-Food Heat Transfer,2530  FWD Other HEX,FHT,Food Heat Transfer,FWD,Food & Water,All,FHT-Food Heat Transfer,FWD-Food & Water,2
+2805 ,FWD HSS,HSS-F,FWD,F&W,null,High Speed Separators,null,null,-,HSS-F-High Speed Separators,2805  FWD HSS,null,null,null,null,All,null,null,4
+2835 , FWD Fluid Handling,HFH,FWD,F&W,null,Hygienic Fluid Handling,null,null,-,HFH-Hygienic Fluid Handling,2835   FWD Fluid Handling,null,null,null,null,All,null,null,4
+2980 ,FWD Other,FOT,FWD,FWD,null,Other,null,null,-,FOT-Other,2980  FWD Other,FOT,Other,FWD,Food & Water,All,FOT-Other,FWD-Food & Water,2
+3105 ,MD HSS,MSH,Marine Division,MMD,1131050,Marine Separation & Heat Transfer Equipment,null,null,-,MSH-Marine Separation & Heat Transfer Equipment,3105  MD HSS,MSH,Marine Separation & Heat Transfer Equipment,MD,Marine,Marine,MSH-Marine Separation & Heat Transfer Equipment,MD-Marine,3
+3115 , MD GPHE,MSH,Marine Division,MMD,1131150,Marine Separation & Heat Transfer Equipment,null,null,-,MSH-Marine Separation & Heat Transfer Equipment,3115   MD GPHE,MSH,Marine Separation & Heat Transfer Equipment,MD,Marine,Marine,MSH-Marine Separation & Heat Transfer Equipment,MD-Marine,3
+3120 ,MD WHE,MSH,Marine Division,MMD,1131200,Marine Separation & Heat Transfer Equipment,null,null,-,MSH-Marine Separation & Heat Transfer Equipment,3120  MD WHE,null,null,null,null,Marine,null,null,4
+3125 , MD BHE,MSH,Marine Division,MMD,1131250,Marine Separation & Heat Transfer Equipment,null,null,-,MSH-Marine Separation & Heat Transfer Equipment,3125   MD BHE,MSH,Marine Separation & Heat Transfer Equipment,MD,Marine,Marine,MSH-Marine Separation & Heat Transfer Equipment,MD-Marine,3
+3160 ,MD BWT,BWT,Marine Division,MMD,1131600,Ballast Water Treatment,BWT,null,BWT-,BWT-Ballast Water Treatment,3160  MD BWT,MSH,Marine Separation & Heat Transfer Equipment,MD,Marine,Marine,MSH-Marine Separation & Heat Transfer Equipment,MD-Marine,3
+3165 ,MD FWG & Evaporator,MSH,Marine Division,MMD,1131650,Marine Separation & Heat Transfer Equipment,null,null,-,MSH-Marine Separation & Heat Transfer Equipment,3165  MD FWG & Evaporator,MSH,Marine Separation & Heat Transfer Equipment,MD,Marine,Marine,MSH-Marine Separation & Heat Transfer Equipment,MD-Marine,3
+3240 ,MD Boilers,BOI,Marine Division,MMD,1132400,Boiler Systems,null,null,-,BOI-Boiler Systems,3240  MD Boilers,BGS,Boiler & Gas Systems,MD,Marine,Marine,BGS-Boiler & Gas Systems,MD-Marine,3
+3245 ,MD Gas Systems,BGS,MMD,MMD,null,null,null,null,null,BGS-,3245  MD Gas Systems,BGS,Boiler & Gas Systems,MD,Marine,Marine,BGS-Boiler & Gas Systems,MD-Marine,3
+Dummy,Dummy,Dummy,Dummy,null,null,null,null,null,null,Dummy-,Dummy Dummy,null,null,null,null,All,null,null,4
